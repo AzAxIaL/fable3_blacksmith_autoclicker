@@ -2,7 +2,7 @@
   
 A python script that uses OpenCV to play the blacksmith game in Fable 3.  
 
-
+![Screenshot of Blacksmith game](https://github.com/AzAxIaL/fable3_blacksmith_autoclicker/blob/main/images/screenshot.png?raw=true)
 
 The game requires you to press a key (1 or 2) depending on the colored square in a sequence.
 If you succeed in hitting all the squares in a sequence, the cash multiplier increases (up to 10), at which point, the speed increases.
