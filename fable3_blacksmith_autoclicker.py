@@ -40,10 +40,10 @@ def main():
     blacksmith_coords = [280, 870, 1650, 1000]
 
     # Template images of the numbers
-    blue_2 = cv2.imread('2b.png', 0)
-    green_1 = cv2.imread('1b.png', 0)
-    marker_blue_2 = cv2.imread('2s.png', 0)
-    marker_green_1 = cv2.imread('1s.png', 0)
+    blue_2 = cv2.imread('images/2b.png', 0)
+    green_1 = cv2.imread('images/1b.png', 0)
+    marker_blue_2 = cv2.imread('images/2s.png', 0)
+    marker_green_1 = cv2.imread('images/1s.png', 0)
 
     # Threshold for image similarity
     threshold = 0.7
